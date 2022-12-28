@@ -13,7 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-    - [Useful resources](#useful-resources)
+ 
 
 - [Author](#author)
 
