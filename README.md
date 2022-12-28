@@ -45,8 +45,6 @@ Users should be able to:
 - Mobile-first workflow
 - [Vue.js](https://vuejs.org/) - JS library
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 Using Vue with Vite, and configure the basics of a project.
