@@ -53,12 +53,12 @@ Using Vue with Vite, and configure the basics of a project.
 
 ### Useful resources 
 
-- [Vite docs](https://vitejs.dev/guide/) -
-- [Flex W3School](https://www.w3schools.com/css/css3_flexbox.asp) -
+- [Vite docs](https://vitejs.dev/guide/) 
+- [Flex W3School](https://www.w3schools.com/css/css3_flexbox.asp) 
 
 ## Author
 
-- Website - [GonzaloBarra](https://github.com/Gonzalo-Barra)
+- Website - [Gonzalo Barra Github](https://github.com/Gonzalo-Barra)
 - Frontend Mentor - [@Gonzalo-Barra](https://www.frontendmentor.io/profile/Gonzalo-Barra)
 
 ```
