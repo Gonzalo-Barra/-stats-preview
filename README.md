@@ -51,7 +51,7 @@ Users should be able to:
 
 Using Vue with Vite, and configure the basics of a project.
 
-### Useful resources -
+### Useful resources 
 
 - [Vite docs](https://vitejs.dev/guide/) -
 - [Flex W3School](https://www.w3schools.com/css/css3_flexbox.asp) -
